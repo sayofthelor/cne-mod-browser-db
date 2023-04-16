@@ -1,0 +1,25 @@
+{
+	"name": "FNF: The Lil' Tiny",
+	"files": [
+		"data/characters/liltiny.xml",
+		"data/charts/tiny-power/load.hx",
+		"data/charts/tiny-power/normal.json",
+		"data/config.xml",
+		"data/freeplaySonglist.json",
+		"data/global.hx",
+		"data/stages/tiny.xml",
+		"images/characters/liltiny.png",
+		"images/characters/liltiny.xml",
+		"images/icons/tiny.png",
+		"images/stages/tiny/adobe.png",
+		"songs/tiny-power/charts/load.hx",
+		"songs/tiny-power/charts/normal.json",
+		"songs/tiny-power/meta.json",
+		"songs/tiny-power/scripts/load.hx",
+		"songs/tiny-power/song/Inst.ogg",
+		"songs/tiny-power/song/Voices.ogg",
+		"sounds/hit.ogg"
+	],
+	"version": "1.0.0",
+	"author": "sayofthelor"
+}

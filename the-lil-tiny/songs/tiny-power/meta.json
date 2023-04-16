@@ -1,0 +1,8 @@
+{
+    "displayName": "Tiny Power",
+    "bpm": 150.0,
+    "icon": "tiny",
+    "color": "#9271FD",
+    "coopAllowed": true,
+    "opponentModeAllowed": true
+}
