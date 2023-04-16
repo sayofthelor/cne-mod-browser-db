@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="too-slow" folder="stages/too-slow-encore/">
+    <sprite name="tse-sky" x="-350" y="-200"   sprite="tse-sky"  scroll="0.4" scale="1.8" />
+    <sprite name="tse-hills" x="-350" y="-200"   sprite="tse-hills"  scroll="0.6" scale="1.8" />
+    <sprite name="tse-lake" x="-350" y="-200"   sprite="tse-lake"  scroll="0.8" scale="1.8" />
+    <high-memory>
+    <sprite name="tse-loop" x="-350" y="-200"   sprite="tse-loop"  scroll="0.8" scale="1.8" />
+    <high-memory>
+    <sprite name="tse-greenhill" x="-350" y="-200"   sprite="tse-greenhill"  scroll="1" scale="2" />
+    <sprite name="tse-flowers" x="-350" y="-200"   sprite="tse-flowers"  scrollx="1.2" scrolly="1" scale="2" />
+
+    <dad x="200" y="50"/>
+    <boyfriend x="1270" y="50"/>
+</stage>

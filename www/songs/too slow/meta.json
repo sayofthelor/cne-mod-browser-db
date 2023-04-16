@@ -1,0 +1,8 @@
+{
+    "displayName": "Too Slow",
+    "bpm": 135,
+    "icon": "welcomeWebp",
+    "color": "#b21e00",
+    "coopAllowed": true,
+    "opponentModeAllowed": true
+}

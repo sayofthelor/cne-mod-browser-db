@@ -1,0 +1,30 @@
+<!DOCTYPE codename-engine-weeks>
+<config>
+    <characters>
+        <!-- BOYFRIEND -->
+        <char name="bf" scale="0.9" x="80">
+            <anim name="idle"       anim="BF idle dance white"  fps="24"    loop="true" />
+            <anim name="confirm"    anim="BF HEY!!"             fps="24"    loop="false"/>
+        </char>
+
+        <!-- ANIMATION IS AUTOMATICALLY ADDED. IF YOU WANT TO SPECIFY A PREFIX, ADD AN IDLE ANIM LIKE ABOVE. -->
+        <char name="dad"                scale="0.5" x="50" />
+   </characters>
+    <weeks>
+        <!-- SPRITE BUTTONS ARE LOCATED IN "images/menus/storymenu/weeks/" -->
+        <!-- IF NO SPRITE ARE SPECIFIED, "week(week number)" WILL BE USED. -->
+        <!-- IF YOU WANT CUSTOM DIFFICULTIES, ADD THIS: difficulties="easy,normal,hard" -->
+        <!-- DIFFICULTIES SPRITES IN "images/menus/storymenu/difficulties/" -->
+
+        <week name="" chars="none,bf,gf" sprite="tutorial">
+            <song name="Tutorial" />
+        </week>
+        <week name="Hello Boy What Are You Doing Here?" chars=" , , " sprite="week1">
+            <song name="Welcome Old" />
+       </week>
+        <week name="Said mod with Lyrics?" chars=" , , " sprite="week1">
+            <song name="Welcome Lyrics" />
+            <song name="Too Slow" />
+       </week>
+    </weeks>
+</config>

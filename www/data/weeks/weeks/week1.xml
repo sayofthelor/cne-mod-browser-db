@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-week>
+<week name="Hello Boy What Are You Doing Here?" chars=" ,menu_welcome, " sprite="week1">
+    <song>Welcome Old</song>
+</week>

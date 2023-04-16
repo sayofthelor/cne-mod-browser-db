@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" holdTime="6.1" icon="welcomeWebp" scale="0.9">
+
+    <anim name="end"  anim="getcha"  fps="24" loop="false" x="-24" y="-8"/>
+
+</character>

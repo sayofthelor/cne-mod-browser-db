@@ -1,0 +1,20 @@
+{
+    "addOGSongs": true,
+    "songs": [
+        {
+            "name": "Welcome Old",
+            "icon": "mousea",
+            "color": "#b21e00"
+        },
+        {
+            "name": "Welcome Lyrics",
+            "icon": "mousea",
+            "color": "#b21e00"
+        },
+{
+            "name": "Too Slow",
+            "icon": "welcomeWebp",
+            "color": "#b21e00"
+        }
+    ]
+}
